@@ -1,0 +1,6 @@
+id: data-store-wrapper
+title: Data Store Retries
+description: DataStoreWrapper provides a retry mechanism for Data Stores that
+  respects the order in which requests were made.
+category: Cloud Services
+tags: []

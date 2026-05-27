@@ -1,0 +1,6 @@
+id: geofence
+title: Geofencing
+description: Demonstrates a geofencing system to block content from users based
+  on their region.
+category: General
+tags: []

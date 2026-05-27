@@ -1,0 +1,10 @@
+id: tween-group
+title: Tween Group
+description: >-
+  Links a group of tweens together, allowing them to be played, paused and
+  cancelled as one.
+
+
+  Note: TweenGroup does not support PlaybackState or Completed events.
+category: Visual
+tags: []

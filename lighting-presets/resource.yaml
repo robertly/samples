@@ -1,0 +1,7 @@
+id: lighting-presets
+title: Lighting Presets
+description: Demonstrates a system for storing lighting presets and updating the
+  lighting settings from those presets. Presets can be set directly or tweened
+  between to create e.g. a day/night cycle.
+category: General
+tags: []
